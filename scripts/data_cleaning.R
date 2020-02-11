@@ -307,3 +307,5 @@ return(data_for_analysis)
 }
 
 data_for_analysis <- clean_data(first.visit=6, censor.at.missed.visit=6)
+firstVISIT = 6
+lastVISIT = 49
