@@ -12,7 +12,7 @@ Here we provide the code to reproduce the analysis described in:
 
 **Methods:** In the placebo arm of the Lipid Research Clinics Coronary Primary Prevention Trial, we estimated the 7-year cumulative incidence of coronary heart disease under 100% adherence and 0% adherence to placebo. We used dose-response discrete-hazards models with IP weighting to adjust for pre- and post-randomization covariates. We considered several continuous distributions for constructing the IP weights.
 
-**Results:** The risk difference estimate for 100% adherence compared with 0% adherence ranged from -7.7 to -6.1 percentage points without adjustment for baseline and post-baseline covariates, and ranged from -1.8 to 1.1 percentage points with adjustment using inverse probability weights, depending on the dose-response model and IP weight distribution used.  
+**Results:** The risk difference estimate for 100% adherence compared with 0% adherence ranged from -7.7 to -6.1 percentage points without adjustment for baseline and post-baseline covariates, and ranged from -1.8 to 2.2 percentage points with adjustment using inverse probability weights, depending on the dose-response model and IP weight distribution used.  
 
 **Conclusions:** Methods which appropriately adjust for time-varying post-randomization variables can explain away much of the bias in the ‘effect’ of adherence to placebo. When considering continuous adherence, investigators should consider several models as estimates may be sensitive to the model chosen. 
 
