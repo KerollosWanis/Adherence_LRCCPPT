@@ -2,7 +2,7 @@
 # This code reproduces the analyses from Wanis K, Madenci A, Hernán M, and Murray E.
 # Adjusting for adherence in randomized trials when adherence is measured as a continuous variable: 
 # an application to the Lipid Research Clinics Coronary Primary Prevention Trial 
-# published in .
+# published in Clinical Trials.
 
 # First load and install the following packages which we will need for data cleaning and analysis.
 
