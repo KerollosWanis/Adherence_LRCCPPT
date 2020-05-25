@@ -4,7 +4,7 @@ Here we provide the code to reproduce the analysis described in:
 
 ### Citation
 
-> 
+> Wanis KN, Madenci AL, Hernán MA, Murray EJ. Adjusting for adherence in randomized trials when adherence is measured as a continuous variable: An application to the Lipid Research Clinics Coronary Primary Prevention Trial. Clinical Trials. 2020 May 15. doi: 10.1177/1740774520920893
 
 # Abstract
 
